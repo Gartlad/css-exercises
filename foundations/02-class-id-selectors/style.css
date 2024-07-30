@@ -1,0 +1,19 @@
+.class1 {
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.class2 {
+    font-size: 21px;
+}
+
+#id1 {
+    font-size: 32px;
+    color: blue;
+}
+
+#id2 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24;
+}
